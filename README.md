@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='EmilyCrowlSimpleTweet.gif' />
+<img src='EmilyCrowlSimpleTweetGIF.gif' />
 
 GIF created with [ScreenToGIF] https://www.screentogif.com/.
 

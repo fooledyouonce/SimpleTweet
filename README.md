@@ -41,8 +41,7 @@ GIF created with [ScreenToGIF] https://www.screentogif.com/.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-N/A
+No challenges.
 
 ## Open-source libraries used
 
